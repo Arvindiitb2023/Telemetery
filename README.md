@@ -9,3 +9,4 @@ When the serial ports reads the data from raspberry( its sends a dictionary) of 
 if we double click on any graph we can maximise the graph vice versa for all plots , also we can hide the sensor we dont want using checkbox beside.
 
 to close the program enter "space" and it gets closed.
+At last a excel file is created where we can see data collected by 6 sensors.
